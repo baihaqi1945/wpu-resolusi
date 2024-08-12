@@ -1,0 +1,8 @@
+Halo pak, salam kenasl nama saya Baihaqi dari Baatam,saya masu kuliah .
+
+Resolusi :
+- Membuat website menggunakan framework javascript
+- Membuat website dengan frameworrk PHP
+- Membuat website dengan Golang
+- Membuat apliaksi mobile dengan dart
+- Bekerja di star-up
